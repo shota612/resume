@@ -1,7 +1,7 @@
 ---
 title: Update resume
-labels: enhancement
 assignees: shota612
+labels: enhancement
 ---
 
 Quarter passed. Update Resume :)
